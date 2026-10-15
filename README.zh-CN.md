@@ -46,6 +46,10 @@ python3 scripts/palette.py --search blue --limit 5
 
 脚本返回结构化 JSON，包含相对 Skill 目录的 `image` 路径，由调用方解析并展示对应图片。脚本不生成新图片。两版的编号、原始三色和图片映射一致。
 
+## 手机端适配
+
+可将本 Skill、配色数据、干净色卡与免运行检索索引打包成仅含 Skill 的 Mood Palette 插件。手机 ChatGPT 通过 `@` 选择已安装插件，直接上传相册底图，再选配色、生成壁纸。底图是编辑目标，色卡只提供颜色。详见 [底图流程](skills/zh-CN/mood-palette/references/mobile.md)。插件的创建与安装、宿主的图片编辑能力均需单独确认，安装 GitHub 独立 Skill 不会自动完成这些步骤。
+
 ## 准确性与发布范围
 
 99 组为图像采样近似值，1 组为可辨认 HEX 转录。100 张图片均由 HEX 独立绘制为 1200×552 的三栏纯色色卡。主题名是重新整理的检索标签，不代表参考色组为原创。UI 补色需标注应用派生并测对比度，详见 [准确性说明](skills/zh-CN/mood-palette/references/accuracy.md)。

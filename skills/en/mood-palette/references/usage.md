@@ -60,6 +60,17 @@ Continue with that palette on the settings page, reusing the selected semantic t
 
 The library provides colors and roles; the project and relevant design workflow govern typography, components, layout, and product behavior. No additional skill installation is required.
 
+## Phone photos
+
+In mobile ChatGPT select the installed Mood Palette plugin and attach a photo directly from your phone. The desktop invocation remains `$mood-palette`. The standalone GitHub skill does not automatically install on a phone; a plugin must be created and installed separately.
+
+```text
+Use Mood Palette to recommend five palettes for this photo; let me choose.
+Choose option 2 and make a portrait wallpaper from the same photo, preserving subject and composition; no text.
+```
+
+An explicit ID can be applied directly. Ask for missing photos in the current chat rather than a desktop transfer. Photos do not belong in plugin assets or GitHub. Read [the photo workflow](mobile.md).
+
 ## Optional CLI
 
 Run in the directory containing `SKILL.md`:

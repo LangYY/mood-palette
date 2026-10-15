@@ -1,0 +1,3175 @@
+{
+  "version": 1,
+  "catalog_sha256": "e9ed4fa2706dfac78263a3d432021c2a942dfecd0baaca7670a9983c8acb7254",
+  "key_format": "color|lightness-or-any|saturation-or-any",
+  "conditions": {
+    "blue|any|any": [
+      {
+        "id": "ocean-paper-01",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#5D91CB"
+      },
+      {
+        "id": "sky-lilac-01",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "vermilion-ink-08",
+        "suggested_primary": "#4B5CAA"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#C0E3F5"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "ocean-paper-02",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "ocean-paper-04",
+        "suggested_primary": "#3473A2"
+      },
+      {
+        "id": "rain-slate-03",
+        "suggested_primary": "#5F90CB"
+      },
+      {
+        "id": "rain-slate-05",
+        "suggested_primary": "#5F90CB"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "sky-lilac-07",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#79A8DA"
+      },
+      {
+        "id": "rain-slate-07",
+        "suggested_primary": "#B2D2EE"
+      },
+      {
+        "id": "ocean-paper-07",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "ocean-paper-08",
+        "suggested_primary": "#0A5589"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#3473A2"
+      },
+      {
+        "id": "sky-lilac-05",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#79A8DA"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#79A8DA"
+      },
+      {
+        "id": "vermilion-ink-01",
+        "suggested_primary": "#4B5CA8"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#4B5CA8"
+      },
+      {
+        "id": "vermilion-ink-05",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "rain-slate-04",
+        "suggested_primary": "#B2D2EE"
+      },
+      {
+        "id": "rain-slate-09",
+        "suggested_primary": "#B2D2EE"
+      },
+      {
+        "id": "rain-slate-02",
+        "suggested_primary": "#516880"
+      },
+      {
+        "id": "electric-pop-03",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#3B4349"
+      }
+    ],
+    "blue|any|muted": [
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#A1C6E9"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#C0E3F5"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#3B4349"
+      },
+      {
+        "id": "ocean-paper-01",
+        "suggested_primary": "#A2A7AF"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#A2C5E9"
+      },
+      {
+        "id": "ocean-paper-04",
+        "suggested_primary": "#A2A7AF"
+      }
+    ],
+    "blue|any|vivid": [
+      {
+        "id": "ocean-paper-02",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#4B5CA8"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "vermilion-ink-05",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#03142C"
+      }
+    ],
+    "blue|light|any": [
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#A1C6E9"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#C0E3F5"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#A2C5E9"
+      }
+    ],
+    "blue|light|muted": [
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#A1C6E9"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#C0E3F5"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#A2C5E9"
+      }
+    ],
+    "blue|light|vivid": [],
+    "blue|dark|any": [
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "rain-slate-02",
+        "suggested_primary": "#516880"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#3B4349"
+      }
+    ],
+    "blue|dark|muted": [],
+    "blue|dark|vivid": [
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#05204C"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#03142C"
+      }
+    ],
+    "pink|any|any": [
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "electric-pop-09",
+        "suggested_primary": "#E6457D"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#E5457D"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#E5457D"
+      },
+      {
+        "id": "electric-pop-07",
+        "suggested_primary": "#E5457D"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#E9B4C4"
+      }
+    ],
+    "pink|any|muted": [
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#E9B4C4"
+      }
+    ],
+    "pink|any|vivid": [
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#E5457D"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#E5457D"
+      }
+    ],
+    "pink|light|any": [
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#E9B4C4"
+      }
+    ],
+    "pink|light|muted": [
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#E9B4C4"
+      }
+    ],
+    "pink|light|vivid": [],
+    "pink|dark|any": [],
+    "pink|dark|muted": [],
+    "pink|dark|vivid": [],
+    "yellow|any|any": [
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#D0B65B"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FFEC8E"
+      },
+      {
+        "id": "moss-tea-08",
+        "suggested_primary": "#CCD275"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#FEFBD6"
+      },
+      {
+        "id": "ocean-paper-08",
+        "suggested_primary": "#9F9A82"
+      },
+      {
+        "id": "crimson-gold-08",
+        "suggested_primary": "#D0B65B"
+      },
+      {
+        "id": "electric-pop-04",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "electric-pop-08",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#D0B65B"
+      },
+      {
+        "id": "moss-tea-06",
+        "suggested_primary": "#CCD275"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "moss-tea-03",
+        "suggested_primary": "#D6C78C"
+      },
+      {
+        "id": "moss-tea-04",
+        "suggested_primary": "#D6C78C"
+      },
+      {
+        "id": "wood-mist-09",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "crimson-gold-02",
+        "suggested_primary": "#DCD2AA"
+      },
+      {
+        "id": "citrus-sun-08",
+        "suggested_primary": "#FEFBD6"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "ocean-paper-09",
+        "suggested_primary": "#9F9A82"
+      }
+    ],
+    "yellow|any|muted": [
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#DCD2AA"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FCF5D2"
+      },
+      {
+        "id": "ocean-paper-09",
+        "suggested_primary": "#9F9A82"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-09",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      }
+    ],
+    "yellow|any|vivid": [
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#D0B65B"
+      },
+      {
+        "id": "electric-pop-04",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "crimson-gold-08",
+        "suggested_primary": "#D0B65B"
+      }
+    ],
+    "yellow|light|any": [
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FFEC8E"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-09",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      }
+    ],
+    "yellow|light|muted": [
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FCF5D2"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-09",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      }
+    ],
+    "yellow|light|vivid": [],
+    "yellow|dark|any": [],
+    "yellow|dark|muted": [],
+    "yellow|dark|vivid": [],
+    "red|any|any": [
+      {
+        "id": "citrus-sun-07",
+        "suggested_primary": "#D9552D"
+      },
+      {
+        "id": "vermilion-ink-04",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "berry-cocoa-02",
+        "suggested_primary": "#E74D66"
+      },
+      {
+        "id": "crimson-gold-06",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "moss-tea-01",
+        "suggested_primary": "#E14744"
+      },
+      {
+        "id": "wood-mist-03",
+        "suggested_primary": "#CF7158"
+      },
+      {
+        "id": "citrus-sun-09",
+        "suggested_primary": "#DB542F"
+      },
+      {
+        "id": "berry-cocoa-05",
+        "suggested_primary": "#E74D66"
+      },
+      {
+        "id": "crimson-gold-02",
+        "suggested_primary": "#CB474A"
+      },
+      {
+        "id": "citrus-sun-06",
+        "suggested_primary": "#DB542D"
+      },
+      {
+        "id": "vermilion-ink-01",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "vermilion-ink-03",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "vermilion-ink-05",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "moss-tea-06",
+        "suggested_primary": "#DF4744"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#E74D66"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-08",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-05",
+        "suggested_primary": "#CB474A"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#CA4647"
+      },
+      {
+        "id": "moss-tea-04",
+        "suggested_primary": "#DC5F6A"
+      },
+      {
+        "id": "moss-tea-09",
+        "suggested_primary": "#DB606A"
+      },
+      {
+        "id": "citrus-sun-02",
+        "suggested_primary": "#AA4537"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#AA4537"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      },
+      {
+        "id": "vermilion-ink-08",
+        "suggested_primary": "#BD6755"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#8A5B59"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#775459"
+      },
+      {
+        "id": "berry-cocoa-07",
+        "suggested_primary": "#3E292E"
+      }
+    ],
+    "red|any|muted": [
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#775459"
+      },
+      {
+        "id": "berry-cocoa-05",
+        "suggested_primary": "#775459"
+      },
+      {
+        "id": "berry-cocoa-02",
+        "suggested_primary": "#3E292E"
+      }
+    ],
+    "red|any|vivid": [
+      {
+        "id": "citrus-sun-07",
+        "suggested_primary": "#D9552D"
+      },
+      {
+        "id": "crimson-gold-06",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "vermilion-ink-05",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "moss-tea-01",
+        "suggested_primary": "#E14744"
+      },
+      {
+        "id": "citrus-sun-09",
+        "suggested_primary": "#DB542F"
+      },
+      {
+        "id": "crimson-gold-02",
+        "suggested_primary": "#CB474A"
+      },
+      {
+        "id": "citrus-sun-06",
+        "suggested_primary": "#DB542D"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "moss-tea-06",
+        "suggested_primary": "#DF4744"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-08",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#CA4647"
+      },
+      {
+        "id": "citrus-sun-02",
+        "suggested_primary": "#AA4537"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#AA4537"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      }
+    ],
+    "red|light|any": [],
+    "red|light|muted": [],
+    "red|light|vivid": [],
+    "red|dark|any": [
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      }
+    ],
+    "red|dark|muted": [],
+    "red|dark|vivid": [
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      }
+    ],
+    "orange|any|any": [
+      {
+        "id": "citrus-sun-01",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "berry-cocoa-07",
+        "suggested_primary": "#F3AF72"
+      },
+      {
+        "id": "wood-mist-05",
+        "suggested_primary": "#DEAF6D"
+      },
+      {
+        "id": "electric-pop-01",
+        "suggested_primary": "#F59F3B"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "citrus-sun-04",
+        "suggested_primary": "#E74F15"
+      },
+      {
+        "id": "citrus-sun-08",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "citrus-sun-02",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "citrus-sun-09",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "electric-pop-07",
+        "suggested_primary": "#F59F3B"
+      },
+      {
+        "id": "citrus-sun-06",
+        "suggested_primary": "#D59B41"
+      },
+      {
+        "id": "citrus-sun-07",
+        "suggested_primary": "#FFD46C"
+      },
+      {
+        "id": "berry-cocoa-06",
+        "suggested_primary": "#F4AF70"
+      },
+      {
+        "id": "wood-mist-03",
+        "suggested_primary": "#DEAF6D"
+      },
+      {
+        "id": "wood-mist-08",
+        "suggested_primary": "#DCB16B"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      },
+      {
+        "id": "ocean-paper-07",
+        "suggested_primary": "#C8C3BC"
+      }
+    ],
+    "orange|any|muted": [
+      {
+        "id": "wood-mist-07",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      }
+    ],
+    "orange|any|vivid": [
+      {
+        "id": "citrus-sun-01",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "electric-pop-01",
+        "suggested_primary": "#F59F3B"
+      },
+      {
+        "id": "berry-cocoa-06",
+        "suggested_primary": "#F4AF70"
+      },
+      {
+        "id": "citrus-sun-04",
+        "suggested_primary": "#E74F15"
+      },
+      {
+        "id": "citrus-sun-08",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "citrus-sun-02",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "citrus-sun-09",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "citrus-sun-06",
+        "suggested_primary": "#D59B41"
+      },
+      {
+        "id": "citrus-sun-07",
+        "suggested_primary": "#FFD46C"
+      }
+    ],
+    "orange|light|any": [
+      {
+        "id": "wood-mist-07",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      }
+    ],
+    "orange|light|muted": [
+      {
+        "id": "wood-mist-07",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      }
+    ],
+    "orange|light|vivid": [],
+    "orange|dark|any": [],
+    "orange|dark|muted": [],
+    "orange|dark|vivid": [],
+    "green|any|any": [
+      {
+        "id": "moss-tea-07",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "mint-candy-08",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#B6D358"
+      },
+      {
+        "id": "moss-tea-01",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "moss-tea-02",
+        "suggested_primary": "#B6C172"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "electric-pop-09",
+        "suggested_primary": "#B6D358"
+      },
+      {
+        "id": "moss-tea-05",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "moss-tea-09",
+        "suggested_primary": "#B6C172"
+      },
+      {
+        "id": "moss-tea-04",
+        "suggested_primary": "#95A162"
+      },
+      {
+        "id": "moss-tea-06",
+        "suggested_primary": "#5C6D2E"
+      },
+      {
+        "id": "moss-tea-08",
+        "suggested_primary": "#5C6D2E"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#ECF6E5"
+      }
+    ],
+    "green|any|muted": [
+      {
+        "id": "mint-candy-08",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#ECF6E5"
+      }
+    ],
+    "green|any|vivid": [
+      {
+        "id": "moss-tea-03",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#B6D358"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "moss-tea-01",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "moss-tea-06",
+        "suggested_primary": "#5C6D2E"
+      }
+    ],
+    "green|light|any": [
+      {
+        "id": "mint-candy-08",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#ECF6E5"
+      }
+    ],
+    "green|light|muted": [
+      {
+        "id": "mint-candy-08",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#CDE2A9"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#A6D4A7"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#ECF6E5"
+      }
+    ],
+    "green|light|vivid": [],
+    "green|dark|any": [
+      {
+        "id": "moss-tea-07",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#019963"
+      }
+    ],
+    "green|dark|muted": [],
+    "green|dark|vivid": [
+      {
+        "id": "moss-tea-07",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#019963"
+      }
+    ],
+    "cyan|any|any": [
+      {
+        "id": "rain-slate-04",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "electric-pop-01",
+        "suggested_primary": "#4FC0D5"
+      },
+      {
+        "id": "berry-cocoa-03",
+        "suggested_primary": "#005E80"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#85CECA"
+      },
+      {
+        "id": "ocean-paper-07",
+        "suggested_primary": "#8D9DA1"
+      },
+      {
+        "id": "rain-slate-09",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "rain-slate-02",
+        "suggested_primary": "#5AACB9"
+      },
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#73B1BC"
+      },
+      {
+        "id": "rain-slate-08",
+        "suggested_primary": "#367078"
+      },
+      {
+        "id": "rain-slate-07",
+        "suggested_primary": "#007E9F"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#4FC0D5"
+      },
+      {
+        "id": "electric-pop-04",
+        "suggested_primary": "#4FC0D5"
+      },
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#51BFD5"
+      },
+      {
+        "id": "berry-cocoa-06",
+        "suggested_primary": "#005E80"
+      },
+      {
+        "id": "rain-slate-05",
+        "suggested_primary": "#73B1BC"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#87CDCC"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#87CDCC"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "ocean-paper-02",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "ocean-paper-04",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#CDDADC"
+      }
+    ],
+    "cyan|any|muted": [
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#87CDCC"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "ocean-paper-04",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#87CDCC"
+      },
+      {
+        "id": "rain-slate-03",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#CDDADC"
+      }
+    ],
+    "cyan|any|vivid": [
+      {
+        "id": "rain-slate-04",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "electric-pop-01",
+        "suggested_primary": "#4FC0D5"
+      },
+      {
+        "id": "berry-cocoa-03",
+        "suggested_primary": "#005E80"
+      },
+      {
+        "id": "rain-slate-09",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#4FC0D5"
+      },
+      {
+        "id": "electric-pop-04",
+        "suggested_primary": "#4FC0D5"
+      },
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#51BFD5"
+      },
+      {
+        "id": "berry-cocoa-06",
+        "suggested_primary": "#005E80"
+      }
+    ],
+    "cyan|light|any": [
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#CDDADC"
+      }
+    ],
+    "cyan|light|muted": [
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#CDDADC"
+      }
+    ],
+    "cyan|light|vivid": [],
+    "cyan|dark|any": [
+      {
+        "id": "rain-slate-02",
+        "suggested_primary": "#367078"
+      },
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#367078"
+      }
+    ],
+    "cyan|dark|muted": [],
+    "cyan|dark|vivid": [],
+    "purple|any|any": [
+      {
+        "id": "electric-pop-08",
+        "suggested_primary": "#534E89"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#9C8EC5"
+      },
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#714F86"
+      },
+      {
+        "id": "electric-pop-01",
+        "suggested_primary": "#534E89"
+      },
+      {
+        "id": "electric-pop-04",
+        "suggested_primary": "#534E89"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#714F86"
+      },
+      {
+        "id": "sky-lilac-01",
+        "suggested_primary": "#9C8EC5"
+      },
+      {
+        "id": "electric-pop-03",
+        "suggested_primary": "#AE7FAF"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "crimson-gold-05",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#4F4854"
+      }
+    ],
+    "purple|any|muted": [
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#9C8EC5"
+      },
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "crimson-gold-05",
+        "suggested_primary": "#4F4854"
+      }
+    ],
+    "purple|any|vivid": [],
+    "purple|light|any": [
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      }
+    ],
+    "purple|light|muted": [
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      }
+    ],
+    "purple|light|vivid": [],
+    "purple|dark|any": [
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#714F86"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#714F86"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#4F4854"
+      }
+    ],
+    "purple|dark|muted": [],
+    "purple|dark|vivid": [],
+    "brown|any|any": [
+      {
+        "id": "berry-cocoa-03",
+        "suggested_primary": "#4D3B0D"
+      },
+      {
+        "id": "moss-tea-02",
+        "suggested_primary": "#684936"
+      },
+      {
+        "id": "moss-tea-05",
+        "suggested_primary": "#684936"
+      },
+      {
+        "id": "moss-tea-09",
+        "suggested_primary": "#684936"
+      }
+    ],
+    "brown|any|muted": [],
+    "brown|any|vivid": [
+      {
+        "id": "berry-cocoa-03",
+        "suggested_primary": "#4D3B0D"
+      }
+    ],
+    "brown|light|any": [],
+    "brown|light|muted": [],
+    "brown|light|vivid": [],
+    "brown|dark|any": [],
+    "brown|dark|muted": [],
+    "brown|dark|vivid": [],
+    "white|any|any": [
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FCF5D2"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#FEFBD6"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#FBF8F0"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "electric-pop-03",
+        "suggested_primary": "#F9FAF5"
+      },
+      {
+        "id": "vermilion-ink-01",
+        "suggested_primary": "#F8F8F8"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "citrus-sun-08",
+        "suggested_primary": "#FEFBD6"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#F5D9DE"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "rain-slate-03",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "citrus-sun-06",
+        "suggested_primary": "#FEFEF1"
+      },
+      {
+        "id": "berry-cocoa-03",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "berry-cocoa-05",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "berry-cocoa-06",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "ocean-paper-08",
+        "suggested_primary": "#FBF8F0"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "wood-mist-05",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "sky-lilac-07",
+        "suggested_primary": "#F5F3FB"
+      },
+      {
+        "id": "electric-pop-07",
+        "suggested_primary": "#F9FAF5"
+      },
+      {
+        "id": "electric-pop-09",
+        "suggested_primary": "#F9FAF5"
+      },
+      {
+        "id": "wood-mist-03",
+        "suggested_primary": "#FCFBFE"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#FCFBFE"
+      },
+      {
+        "id": "vermilion-ink-05",
+        "suggested_primary": "#F8F8F8"
+      }
+    ],
+    "white|any|muted": [
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FCF5D2"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#FBF8F0"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#F5D9DE"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "rain-slate-03",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "berry-cocoa-05",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "wood-mist-05",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#FCFBFE"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#FCFBFE"
+      }
+    ],
+    "white|any|vivid": [],
+    "white|light|any": [
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FCF5D2"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#FBF8F0"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "electric-pop-07",
+        "suggested_primary": "#F9FAF5"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#F5D9DE"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "wood-mist-05",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "sky-lilac-07",
+        "suggested_primary": "#F5F3FB"
+      },
+      {
+        "id": "electric-pop-09",
+        "suggested_primary": "#F9FAF5"
+      },
+      {
+        "id": "wood-mist-03",
+        "suggested_primary": "#FCFBFE"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#FCFBFE"
+      }
+    ],
+    "white|light|muted": [
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FCF5D2"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#F1F7FC"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#FBF8F0"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "mint-candy-07",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-06",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#FCF7DF"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#F5D9DE"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "wood-mist-05",
+        "suggested_primary": "#FFFBF5"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#FCFBFE"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#FCFBFE"
+      }
+    ],
+    "white|light|vivid": [],
+    "white|dark|any": [],
+    "white|dark|muted": [],
+    "white|dark|vivid": [],
+    "gray|any|any": [
+      {
+        "id": "ocean-paper-07",
+        "suggested_primary": "#8D9DA1"
+      },
+      {
+        "id": "crimson-gold-05",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "vermilion-ink-03",
+        "suggested_primary": "#676465"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#3B4349"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#E7F2E9"
+      },
+      {
+        "id": "berry-cocoa-02",
+        "suggested_primary": "#DBDFE2"
+      },
+      {
+        "id": "sky-lilac-05",
+        "suggested_primary": "#D0D0D0"
+      },
+      {
+        "id": "ocean-paper-04",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "ocean-paper-01",
+        "suggested_primary": "#A2A7AF"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "ocean-paper-02",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#3B4349"
+      },
+      {
+        "id": "rain-slate-07",
+        "suggested_primary": "#3B4349"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "crimson-gold-06",
+        "suggested_primary": "#D8D2DD"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#E7F2E9"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#DBDFE2"
+      },
+      {
+        "id": "berry-cocoa-09",
+        "suggested_primary": "#DBDFE2"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#676465"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#C4C4C4"
+      }
+    ],
+    "gray|any|muted": [
+      {
+        "id": "ocean-paper-04",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "crimson-gold-05",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "vermilion-ink-03",
+        "suggested_primary": "#676465"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#3B4349"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#E7F2E9"
+      },
+      {
+        "id": "berry-cocoa-02",
+        "suggested_primary": "#DBDFE2"
+      },
+      {
+        "id": "sky-lilac-05",
+        "suggested_primary": "#D0D0D0"
+      },
+      {
+        "id": "ocean-paper-01",
+        "suggested_primary": "#A2A7AF"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#E7F2E9"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#DBDFE2"
+      },
+      {
+        "id": "berry-cocoa-09",
+        "suggested_primary": "#DBDFE2"
+      }
+    ],
+    "gray|any|vivid": [],
+    "gray|light|any": [
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#E7F2E9"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#DBDFE2"
+      },
+      {
+        "id": "sky-lilac-05",
+        "suggested_primary": "#D0D0D0"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#E7F2E9"
+      }
+    ],
+    "gray|light|muted": [
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#C8C3BC"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#E7F2E9"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#DBDFE2"
+      },
+      {
+        "id": "sky-lilac-05",
+        "suggested_primary": "#D0D0D0"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#E7F2E9"
+      }
+    ],
+    "gray|light|vivid": [],
+    "gray|dark|any": [
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#3B4349"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#676465"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#4F4854"
+      }
+    ],
+    "gray|dark|muted": [],
+    "gray|dark|vivid": [],
+    "black|any|any": [
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#2A2F2F"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "vermilion-ink-04",
+        "suggested_primary": "#2A2F2F"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#2A2F2F"
+      },
+      {
+        "id": "vermilion-ink-08",
+        "suggested_primary": "#2A2F2F"
+      }
+    ],
+    "black|any|muted": [],
+    "black|any|vivid": [
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#110509"
+      }
+    ],
+    "black|light|any": [],
+    "black|light|muted": [],
+    "black|light|vivid": [],
+    "black|dark|any": [
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#2A2F2F"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "vermilion-ink-04",
+        "suggested_primary": "#2A2F2F"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#2A2F2F"
+      },
+      {
+        "id": "vermilion-ink-08",
+        "suggested_primary": "#2A2F2F"
+      }
+    ],
+    "black|dark|muted": [],
+    "black|dark|vivid": [
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#110509"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#110509"
+      }
+    ],
+    "any|any|any": [
+      {
+        "id": "citrus-sun-01",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "electric-pop-01",
+        "suggested_primary": "#F59F3B"
+      },
+      {
+        "id": "vermilion-ink-01",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "rain-slate-04",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "moss-tea-01",
+        "suggested_primary": "#E14744"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#E74D66"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "ocean-paper-01",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "wood-mist-03",
+        "suggested_primary": "#CF7158"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FFEC8E"
+      },
+      {
+        "id": "sky-lilac-01",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "citrus-sun-08",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "citrus-sun-02",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "citrus-sun-09",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "citrus-sun-04",
+        "suggested_primary": "#E74F15"
+      },
+      {
+        "id": "electric-pop-07",
+        "suggested_primary": "#F59F3B"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "electric-pop-04",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "electric-pop-08",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "citrus-sun-06",
+        "suggested_primary": "#DB542D"
+      },
+      {
+        "id": "citrus-sun-07",
+        "suggested_primary": "#D9552D"
+      },
+      {
+        "id": "vermilion-ink-03",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "vermilion-ink-04",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "vermilion-ink-05",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "electric-pop-09",
+        "suggested_primary": "#E6457D"
+      },
+      {
+        "id": "rain-slate-09",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#E5457D"
+      },
+      {
+        "id": "rain-slate-07",
+        "suggested_primary": "#007E9F"
+      },
+      {
+        "id": "moss-tea-06",
+        "suggested_primary": "#DF4744"
+      },
+      {
+        "id": "berry-cocoa-02",
+        "suggested_primary": "#E74D66"
+      },
+      {
+        "id": "berry-cocoa-05",
+        "suggested_primary": "#E74D66"
+      },
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-06",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-08",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "berry-cocoa-06",
+        "suggested_primary": "#F4AF70"
+      },
+      {
+        "id": "crimson-gold-02",
+        "suggested_primary": "#CB474A"
+      },
+      {
+        "id": "crimson-gold-05",
+        "suggested_primary": "#CB474A"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#CA4647"
+      },
+      {
+        "id": "berry-cocoa-07",
+        "suggested_primary": "#F3AF72"
+      },
+      {
+        "id": "ocean-paper-02",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "ocean-paper-07",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "berry-cocoa-03",
+        "suggested_primary": "#005E80"
+      },
+      {
+        "id": "ocean-paper-08",
+        "suggested_primary": "#0A5589"
+      },
+      {
+        "id": "moss-tea-04",
+        "suggested_primary": "#DC5F6A"
+      },
+      {
+        "id": "moss-tea-03",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "moss-tea-09",
+        "suggested_primary": "#DB606A"
+      },
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#D0B65B"
+      },
+      {
+        "id": "wood-mist-05",
+        "suggested_primary": "#DEAF6D"
+      },
+      {
+        "id": "wood-mist-08",
+        "suggested_primary": "#DCB16B"
+      },
+      {
+        "id": "ocean-paper-03",
+        "suggested_primary": "#3473A2"
+      },
+      {
+        "id": "ocean-paper-04",
+        "suggested_primary": "#3473A2"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#5D91CB"
+      },
+      {
+        "id": "rain-slate-03",
+        "suggested_primary": "#5F90CB"
+      },
+      {
+        "id": "rain-slate-05",
+        "suggested_primary": "#5F90CB"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      },
+      {
+        "id": "vermilion-ink-08",
+        "suggested_primary": "#BD6755"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "sky-lilac-05",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "sky-lilac-07",
+        "suggested_primary": "#4C74B1"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#79A8DA"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#79A8DA"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#79A8DA"
+      },
+      {
+        "id": "rain-slate-02",
+        "suggested_primary": "#5AACB9"
+      },
+      {
+        "id": "moss-tea-08",
+        "suggested_primary": "#CCD275"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "moss-tea-02",
+        "suggested_primary": "#B6C172"
+      },
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#73B1BC"
+      },
+      {
+        "id": "wood-mist-01",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "electric-pop-03",
+        "suggested_primary": "#AE7FAF"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      }
+    ],
+    "any|any|muted": [
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-09",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#A1C6E9"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#C0E3F5"
+      },
+      {
+        "id": "crimson-gold-03",
+        "suggested_primary": "#DCD2AA"
+      },
+      {
+        "id": "ocean-paper-09",
+        "suggested_primary": "#9F9A82"
+      },
+      {
+        "id": "rain-slate-01",
+        "suggested_primary": "#E3EEF3"
+      },
+      {
+        "id": "vermilion-ink-03",
+        "suggested_primary": "#676465"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#A2C5E9"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#9C8EC5"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "berry-cocoa-05",
+        "suggested_primary": "#775459"
+      },
+      {
+        "id": "berry-cocoa-02",
+        "suggested_primary": "#3E292E"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "ocean-paper-01",
+        "suggested_primary": "#A2A7AF"
+      },
+      {
+        "id": "crimson-gold-05",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "rain-slate-03",
+        "suggested_primary": "#E3EEF3"
+      }
+    ],
+    "any|any|vivid": [
+      {
+        "id": "citrus-sun-01",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "rain-slate-04",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "moss-tea-01",
+        "suggested_primary": "#E14744"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "berry-cocoa-06",
+        "suggested_primary": "#F4AF70"
+      },
+      {
+        "id": "ocean-paper-02",
+        "suggested_primary": "#085689"
+      },
+      {
+        "id": "citrus-sun-02",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "citrus-sun-09",
+        "suggested_primary": "#F08E1D"
+      },
+      {
+        "id": "citrus-sun-04",
+        "suggested_primary": "#E74F15"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "citrus-sun-07",
+        "suggested_primary": "#D9552D"
+      },
+      {
+        "id": "electric-pop-05",
+        "suggested_primary": "#E5457D"
+      },
+      {
+        "id": "citrus-sun-03",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "citrus-sun-08",
+        "suggested_primary": "#E94E15"
+      },
+      {
+        "id": "electric-pop-01",
+        "suggested_primary": "#F59F3B"
+      },
+      {
+        "id": "electric-pop-04",
+        "suggested_primary": "#F6EC45"
+      },
+      {
+        "id": "citrus-sun-06",
+        "suggested_primary": "#DB542D"
+      },
+      {
+        "id": "vermilion-ink-05",
+        "suggested_primary": "#CA3F23"
+      },
+      {
+        "id": "rain-slate-09",
+        "suggested_primary": "#007EA1"
+      },
+      {
+        "id": "moss-tea-06",
+        "suggested_primary": "#DF4744"
+      },
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-06",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "crimson-gold-08",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "crimson-gold-02",
+        "suggested_primary": "#CB474A"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#CA4647"
+      },
+      {
+        "id": "berry-cocoa-03",
+        "suggested_primary": "#005E80"
+      },
+      {
+        "id": "moss-tea-03",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      }
+    ],
+    "any|light|any": [
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#FFEC8E"
+      },
+      {
+        "id": "wood-mist-09",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#A1C6E9"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "electric-pop-07",
+        "suggested_primary": "#F9FAF5"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#A2C5E9"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      },
+      {
+        "id": "sky-lilac-07",
+        "suggested_primary": "#F5F3FB"
+      },
+      {
+        "id": "electric-pop-09",
+        "suggested_primary": "#F9FAF5"
+      }
+    ],
+    "any|light|muted": [
+      {
+        "id": "wood-mist-09",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "mint-candy-01",
+        "suggested_primary": "#FDDFC5"
+      },
+      {
+        "id": "sky-lilac-08",
+        "suggested_primary": "#A1C6E9"
+      },
+      {
+        "id": "berry-cocoa-01",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "cream-sky-01",
+        "suggested_primary": "#C0E3F5"
+      },
+      {
+        "id": "ocean-paper-06",
+        "suggested_primary": "#CDDADC"
+      },
+      {
+        "id": "mint-candy-03",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "mint-candy-05",
+        "suggested_primary": "#E9B4C4"
+      },
+      {
+        "id": "wood-mist-06",
+        "suggested_primary": "#F6E9C9"
+      },
+      {
+        "id": "mint-candy-02",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-04",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "mint-candy-09",
+        "suggested_primary": "#EDEF9F"
+      },
+      {
+        "id": "wood-mist-02",
+        "suggested_primary": "#DBCB93"
+      },
+      {
+        "id": "sky-lilac-03",
+        "suggested_primary": "#A2C5E9"
+      },
+      {
+        "id": "wood-mist-04",
+        "suggested_primary": "#E2C2A4"
+      },
+      {
+        "id": "berry-cocoa-04",
+        "suggested_primary": "#FAE7C3"
+      },
+      {
+        "id": "sky-lilac-02",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-09",
+        "suggested_primary": "#FBE2C6"
+      },
+      {
+        "id": "sky-lilac-04",
+        "suggested_primary": "#E3DBEE"
+      }
+    ],
+    "any|light|vivid": [],
+    "any|dark|any": [
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "vermilion-ink-02",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "moss-tea-07",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "rain-slate-02",
+        "suggested_primary": "#367078"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "rain-slate-06",
+        "suggested_primary": "#367078"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#4F4854"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "vermilion-ink-04",
+        "suggested_primary": "#2A2F2F"
+      },
+      {
+        "id": "vermilion-ink-08",
+        "suggested_primary": "#2A2F2F"
+      }
+    ],
+    "any|dark|muted": [],
+    "any|dark|vivid": [
+      {
+        "id": "crimson-gold-04",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "vermilion-ink-07",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "moss-tea-07",
+        "suggested_primary": "#86A126"
+      },
+      {
+        "id": "electric-pop-02",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "vermilion-ink-09",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "crimson-gold-09",
+        "suggested_primary": "#690023"
+      },
+      {
+        "id": "crimson-gold-01",
+        "suggested_primary": "#B51C2F"
+      },
+      {
+        "id": "vermilion-ink-06",
+        "suggested_primary": "#019963"
+      },
+      {
+        "id": "electric-pop-06",
+        "suggested_primary": "#03142C"
+      },
+      {
+        "id": "crimson-gold-07",
+        "suggested_primary": "#110509"
+      }
+    ]
+  }
+}

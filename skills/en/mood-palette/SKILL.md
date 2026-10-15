@@ -1,6 +1,6 @@
 ---
 name: mood-palette
-description: Recommend three-color palettes from everyday descriptions such as blue, pink, bright, or muted, or retrieve a theme or ID for image generation and UI recoloring. Use for palette selection, comparison, or explicit requests for this library; do not apply it to every design task.
+description: Recommend three-color palettes from everyday descriptions such as blue, pink, bright, or muted, or retrieve a theme or ID for image generation, photo-based wallpapers, and UI recoloring. Use for palette selection, comparison, or explicit requests for this library; do not apply it to every design task.
 ---
 
 # Mood Palette
@@ -30,11 +30,15 @@ When the user asks how to use the skill or supplies only its name, show usage ex
 
 Infer optional mood, dimensions, theme, and format from the task when sufficient context exists. Brand constraints and explicit palette choices take priority. Other design workflows govern layout, typography, and components.
 
+## Phone photos and wallpapers
+
+For an uploaded base photo, recoloring that preserves a photo, or a phone wallpaper, read [the mobile photo workflow](references/mobile.md). Use current chat attachments directly; the photo is the edit target and the palette card is only a color reference. Follow recommendation-only versus direct-generation intent. In mobile ChatGPT select the installed Mood Palette plugin with the host’s `@` menu; desktop invocation remains `$mood-palette`.
+
 ## Select and show palettes
 
-For everyday descriptions, read [color search](references/search.md), map the request to the supported basic color, lightness, saturation, and count, and run the script. Retrieve real candidates rather than guessing from theme names. Recommend five by default; if fewer match after deduplication, report the actual count rather than inventing combinations.
+For everyday descriptions, read [color search](references/search.md), map the request to the supported basic color, lightness, saturation, and count, and run the script when Python execution is available. Otherwise use [the portable index](references/portable-search.json), keyed by `color|lightness-or-any|saturation-or-any`, take the first N entries, and retrieve the original records by ID. It is exported from the same ranking and deduplication algorithm. Retrieve real candidates rather than guessing from theme names. Recommend five by default; if fewer match after deduplication, report the actual count rather than inventing combinations.
 
-Show the pre-rendered clean three-column card from each record’s `image` field, resolved relative to the skill folder. Cards are rendered only from catalog HEX values; reference images and their crops must not be used as skill assets. Embed images in image-capable chat; use an absolute path for local Markdown images. If embedding is unavailable, attach or link the image file. The image is the primary selection artifact: names or IDs alone do not fulfill a palette-browsing request. Reuse the existing image without drawing a replacement search chart or calling an image model. Under each image, add an everyday description such as “blue-gray + deep blue + light gray,” a suggested primary color, and a brief distinction. IDs and copyable HEX are supplementary. Return text alone when the user asks only for values.
+Show the pre-rendered clean three-column card from each record’s `image` field, resolved relative to the skill folder. Cards are rendered only from catalog HEX values; reference images and their crops must not be used as skill assets. Embed images using the resource files, attachments, or valid URLs supplied by the host. Use absolute computer paths only in local execution; never present a desktop path as a mobile link. If embedding is unavailable, attach or link the image file. The image is the primary selection artifact: names or IDs alone do not fulfill a palette-browsing request. Reuse the existing image without drawing a replacement search chart or calling an image model. Under each image, add an everyday description such as “blue-gray + deep blue + light gray,” a suggested primary color, and a brief distinction. IDs and copyable HEX are supplementary. Return text alone when the user asks only for values.
 
 If the user asks to choose, stop after showing candidates. Map a later “option 3” to the actual ID previously displayed, preserving its colors and image rather than rerunning and reordering the search. If explicitly asked to recommend and generate immediately, select and report an ID, then continue.
 

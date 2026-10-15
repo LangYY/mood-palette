@@ -31,6 +31,10 @@ python3 scripts/palette.py --search any --lightness dark --saturation vivid --li
 - `image` is a relative path to the existing individual palette image. Resolve it from the skill folder, not the current project's working directory.
 - Status is `ok`, `fewer_matches`, or `no_matches`; use `returned` as the actual count. If too few match, explain and offer a relaxed condition without silently dropping filters.
 
+## Hosts without Python
+
+Read [the portable index](portable-search.json), keyed by `color|lightness-or-any|saturation-or-any`, such as `blue|any|any`. Each ordered row contains a real ID and suggested primary. Take the first N entries, then look up original colors and image paths in `palettes.json`. Empty or short arrays stay empty or short. Rebuild with `python3 scripts/build_portable_search.py` after catalog or algorithm changes; tests compare all 117 conditions.
+
 ## Presentation and selection
 
 Show option number → actual existing palette image → everyday three-color description → suggested primary and short distinction. Embed each image directly when supported; use resolved absolute local paths in Markdown. Otherwise attach or link the image file. Names and IDs alone are insufficient for browsing; HEX and IDs are supplementary. A values-only request gets text.

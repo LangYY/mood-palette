@@ -45,3 +45,7 @@ python3 scripts/palette.py --search any --lightness dark --saturation vivid --li
 ```
 
 选色阶段直接展示库内预渲染的三栏色卡，不重新生成色卡。用户只要色值时返回文本；要求插画、海报或 UI 等应用效果图时，再进入生图流程。
+
+## 没有 Python 的宿主
+
+读取 [免运行索引](portable-search.json)，按 `基本色|明暗或any|饱和度或any` 查找条件（例如 `blue|any|any`）。每项包含真实 ID 与建议主色，已按现有算法排序、去重；取前 N 组后，从 `palettes.json` 获取原三色和色卡路径。没有匹配就报告实际数量。更新色值或检索算法后运行 `python3 scripts/build_portable_search.py` 重建，并运行测试核对全部 117 个条件。

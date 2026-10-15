@@ -1,10 +1,28 @@
 """Run with python3 scripts/test_search.py; standard library only."""
 import unittest
+import json
+from pathlib import Path
+from build_portable_search import catalog_fingerprint
 from palette import catalog
 from search import search, color_info, palette_distance
 
 
 class SearchTests(unittest.TestCase):
+    def test_portable_choices_match_live_search(self):
+        data = catalog()
+        index = json.loads((Path(__file__).resolve().parents[1] / 'references/portable-search.json').read_text())
+        self.assertEqual(index['catalog_sha256'], catalog_fingerprint(data))
+        self.assertEqual(len(index['conditions']), 117)
+        for key, choices in index['conditions'].items():
+            color, lightness, saturation = key.split('|')
+            lightness = None if lightness == 'any' else lightness
+            saturation = None if saturation == 'any' else saturation
+            for limit in (1, 5, 10):
+                live = search(data, color, limit, lightness, saturation)
+                self.assertEqual(choices[:limit], [
+                    {'id':p['id'], 'suggested_primary':p['suggested_primary']}
+                    for p in live['results']], (key, limit))
+
     def test_basic_color_names(self):
         for value, tag in [('#0000FF','blue'),('#FFC0CB','pink'),('#FFFF00','yellow'),
                            ('#FFFFFF','white'),('#808080','gray'),('#000000','black')]:

@@ -46,6 +46,10 @@ python3 scripts/palette.py --search blue --limit 5
 
 Search returns structured JSON, including `image` paths relative to the skill directory. The agent resolves and displays the files. The CLI does not generate new pictures. IDs, source HEX, and image mapping remain stable between languages.
 
+## Mobile adaptation
+
+A skills-only Mood Palette plugin can carry this workflow, catalog, clean cards, and precomputed search index for hosts without Python. In mobile ChatGPT select the installed plugin with `@`, attach a photo, choose a palette, and request a wallpaper. The photo is the editing target; the card supplies colors only. See [photo editing workflow](skills/en/mood-palette/references/mobile.md). Plugin creation, installation, and host image-editing availability are separate from installing this standalone GitHub skill.
+
 ## Accuracy and public package
 
 99 records contain approximate image samples; one uses transcribed HEX labels. All 100 images are independently rendered three-column cards at 1200×552, using the stored HEX values only. Theme names are newly assigned organizational labels; this does not assert original authorship of the reference color arrangements. UI-derived colors must be identified and measured for contrast. See [accuracy notes](skills/en/mood-palette/references/accuracy.md).

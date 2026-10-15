@@ -1,11 +1,11 @@
 # Usage examples
 
-Use `$palette-studio` plus an ordinary task description. These are natural-language examples, not extra slash commands or script subcommands.
+Use `$mood-palette` plus an ordinary task description. These are natural-language examples, not extra slash commands or script subcommands.
 
 ## Browse and choose
 
 ```text
-$palette-studio Recommend palettes for my tea brand.
+$mood-palette Recommend palettes for my tea brand.
 Recommend five blue-themed palettes for me to choose from.
 Show me five light, muted pink combinations.
 Choose option 3 and use it for a poster.
@@ -16,8 +16,8 @@ Show clean three-column palette cards rendered from HEX values, five by default,
 ## Compare
 
 ```text
-$palette-studio Compare two calm palettes for a reading website; show the cards and explain background, text, and accent roles. Do not edit files yet.
-$palette-studio Compare Cream Sky and Rain Slate for a weather utility.
+$mood-palette Compare two calm palettes for a reading website; show the cards and explain background, text, and accent roles. Do not edit files yet.
+$mood-palette Compare Cream Sky and Rain Slate for a weather utility.
 ```
 
 Recommendations reuse existing images without calling an image-generation tool or modifying a project. A named theme resolves to concrete IDs according to the requested count; use an ID for exact reproduction.
@@ -25,9 +25,9 @@ Recommendations reuse existing images without calling an image-generation tool o
 ## Generate images or only prompts
 
 ```text
-$palette-studio Use cream-sky-01 to generate a ceramic still-life illustration, landscape 4:3, without text, using imagegen.
-$palette-studio Use Rain Slate for a portrait photography exhibition poster titled RAIN STUDIES.
-$palette-studio Write a tea-set product-image prompt with Moss Tea; do not generate yet.
+$mood-palette Use cream-sky-01 to generate a ceramic still-life illustration, landscape 4:3, without text, using imagegen.
+$mood-palette Use Rain Slate for a portrait photography exhibition poster titled RAIN STUDIES.
+$mood-palette Write a tea-set product-image prompt with Moss Tea; do not generate yet.
 ```
 
 The first two deliver actual images; the third delivers a prompt. Include prompts when requested. HEX guides relationships rather than promising exact pixel colors. Explain when the image tool is unavailable.
@@ -35,9 +35,9 @@ The first two deliver actual images; the third delivers a prompt. Include prompt
 ## UI tokens, mockups, and code changes
 
 ```text
-$palette-studio Output CSS color variables and contrast measurements for moss-tea-05; no page implementation yet.
-$palette-studio Generate a desktop landscape flower-shop homepage mockup with Mint Candy using imagegen.
-$palette-studio Recolor the current dashboard with rain-slate-01. Preserve layout, content, interactions, and token naming.
+$mood-palette Output CSS color variables and contrast measurements for moss-tea-05; no page implementation yet.
+$mood-palette Generate a desktop landscape flower-shop homepage mockup with Mint Candy using imagegen.
+$mood-palette Recolor the current dashboard with rain-slate-01. Preserve layout, content, interactions, and token naming.
 ```
 
 These respectively deliver tokens, a static mockup image, and code changes. A static mockup is not a working page. An audit-only request can say “Check text and button contrast without changing colors.”
@@ -47,14 +47,14 @@ Token example for `moss-tea-05`: background `#D6C78C`, primary button `#684936`,
 ## Batch images and reuse
 
 ```text
-$palette-studio Use ten different palette IDs to generate ten illustrations, ten UI mockups, and ten posters: thirty separate images total, using imagegen. Reuse each ID across the three use cases and provide originals, prompts, and a gallery.
-$palette-studio Generate three landscape tea-set product images with Cream Sky. Use different compositions but keep one palette ID; no text.
+$mood-palette Use ten different palette IDs to generate ten illustrations, ten UI mockups, and ten posters: thirty separate images total, using imagegen. Reuse each ID across the three use cases and provide originals, prompts, and a gallery.
+$mood-palette Generate three landscape tea-set product images with Cream Sky. Use different compositions but keep one palette ID; no text.
 ```
 
 The first means ten IDs × three use cases × one image. The second means one ID × one use case × three compositions. Count independent images; a gallery is only a browsing aid. If use cases are omitted, state a context-appropriate allocation and proceed.
 
 ```text
-Use $palette-studio moss-tea-05 with the project's current design system to implement a tea-brand homepage.
+Use $mood-palette moss-tea-05 with the project's current design system to implement a tea-brand homepage.
 Continue with that palette on the settings page, reusing the selected semantic tokens.
 ```
 

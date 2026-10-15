@@ -1,19 +1,19 @@
 ---
-name: palette-studio
+name: mood-palette
 description: Recommend three-color palettes from everyday descriptions such as blue, pink, bright, or muted, or retrieve a theme or ID for image generation and UI recoloring. Use for palette selection, comparison, or explicit requests for this library; do not apply it to every design task.
 ---
 
-# Palette Studio
+# Mood Palette
 
 Choose a complete three-color combination, then assign roles and area ratios. Preserve the user's subject, layout, and brand constraints. Respond in the user's language.
 
 ## Invocation and routing
 
-Use `$palette-studio` with a task, for example:
+Use `$mood-palette` with a task, for example:
 
 - `Recommend five blue-themed palettes for me to choose from.`
-- `$palette-studio Generate a landscape still-life illustration with cream-sky-01, without text.`
-- `$palette-studio Recolor the current page with moss-tea-05; preserve its layout and interactions.`
+- `$mood-palette Generate a landscape still-life illustration with cream-sky-01, without text.`
+- `$mood-palette Recolor the current page with moss-tea-05; preserve its layout and interactions.`
 
 When the user asks how to use the skill or supplies only its name, show usage examples. Read [usage examples](references/usage.md) for invocation help or batch conventions.
 

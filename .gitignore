@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.codex/
+.claude/
+AGENTS.md
+CLAUDE.md
+work/
+*.zip

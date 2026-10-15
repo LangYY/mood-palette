@@ -1,0 +1,1193 @@
+{
+  "version": 4,
+  "scope": "12 themes; 100 three-color combinations",
+  "color_order": "Stored order has no implied color role or area ratio",
+  "families": [
+    {
+      "id": "ocean-paper",
+      "name": "Ocean Paper",
+      "keywords": "calm, crisp, papery",
+      "ids": "ocean-paper-01 … ocean-paper-09",
+      "guidance": "Deep blues with cool whites and warm grays for reading interfaces, ocean illustrations, and posters."
+    },
+    {
+      "id": "cream-sky",
+      "name": "Cream Sky",
+      "keywords": "bright, airy, soft",
+      "ids": "cream-sky-01",
+      "guidance": "Cream, light sky blue, and soft yellow for lifestyle interfaces and airy illustrations."
+    },
+    {
+      "id": "berry-cocoa",
+      "name": "Berry Cocoa",
+      "keywords": "retro, sweet, warm",
+      "ids": "berry-cocoa-01 … berry-cocoa-09",
+      "guidance": "Berry reds with cream, cocoa brown, or teal for dessert packaging and retro posters."
+    },
+    {
+      "id": "wood-mist",
+      "name": "Wood Mist",
+      "keywords": "natural, minimal, gentle",
+      "ids": "wood-mist-01 … wood-mist-09",
+      "guidance": "Off-white, wood tones, and pale cyan for interiors, content interfaces, and still life."
+    },
+    {
+      "id": "moss-tea",
+      "name": "Moss Tea",
+      "keywords": "quiet, natural, earthy",
+      "ids": "moss-tea-01 … moss-tea-09",
+      "guidance": "Moss, olive, tea brown, and cream form layers; some combinations include red accents."
+    },
+    {
+      "id": "sky-lilac",
+      "name": "Sky Lilac",
+      "keywords": "clear, serene, softly lit",
+      "ids": "sky-lilac-01 … sky-lilac-09",
+      "guidance": "Sky blue, lilac, and cloud white, sometimes with pale apricot, for sky and soft-light scenes."
+    },
+    {
+      "id": "electric-pop",
+      "name": "Electric Pop",
+      "keywords": "bold, lively, energetic",
+      "ids": "electric-pop-01 … electric-pop-09",
+      "guidance": "Cyan, bright yellow, orange, and pink with deep blue-purple for event graphics and digital illustration."
+    },
+    {
+      "id": "crimson-gold",
+      "name": "Crimson Gold",
+      "keywords": "rich, grounded, formal",
+      "ids": "crimson-gold-01 … crimson-gold-09",
+      "guidance": "Crimson, near-black, brass yellow, and deep purple for packaging and dark visual themes."
+    },
+    {
+      "id": "vermilion-ink",
+      "name": "Vermilion Ink",
+      "keywords": "bold, strong, grounded",
+      "ids": "vermilion-ink-01 … vermilion-ink-09",
+      "guidance": "Vermilion with ink tones, teal, or deep blue; strong light-dark contrast separates layers."
+    },
+    {
+      "id": "rain-slate",
+      "name": "Rain Slate",
+      "keywords": "cool, restrained, quiet",
+      "ids": "rain-slate-01 … rain-slate-09",
+      "guidance": "Misty blue, slate, ink, and icy white for rainy scenes and utility interfaces."
+    },
+    {
+      "id": "citrus-sun",
+      "name": "Citrus Sun",
+      "keywords": "warm, positive, energetic",
+      "ids": "citrus-sun-01 … citrus-sun-09",
+      "guidance": "Orange, warm yellow, vermilion, and warm brown for food, sport, and event graphics."
+    },
+    {
+      "id": "mint-candy",
+      "name": "Mint Candy",
+      "keywords": "soft, airy, sweet",
+      "ids": "mint-candy-01 … mint-candy-09",
+      "guidance": "Pale pink, light yellow, mint, and apricot for soft illustrations and decorative surfaces."
+    }
+  ],
+  "palettes": [
+    {
+      "id": "ocean-paper-01",
+      "family": "ocean-paper",
+      "colors": [
+        "#A2A7AF",
+        "#085689",
+        "#EAEBEF"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-01.png"
+    },
+    {
+      "id": "ocean-paper-02",
+      "family": "ocean-paper",
+      "colors": [
+        "#CDDADC",
+        "#3473A2",
+        "#085689"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-02.png"
+    },
+    {
+      "id": "ocean-paper-03",
+      "family": "ocean-paper",
+      "colors": [
+        "#C8C3BC",
+        "#EAEBEF",
+        "#3473A2"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-03.png"
+    },
+    {
+      "id": "ocean-paper-04",
+      "family": "ocean-paper",
+      "colors": [
+        "#3473A2",
+        "#A2A7AF",
+        "#CDDADC"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-04.png"
+    },
+    {
+      "id": "ocean-paper-05",
+      "family": "ocean-paper",
+      "colors": [
+        "#EAEBEF",
+        "#065787",
+        "#3473A2"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-05.png"
+    },
+    {
+      "id": "ocean-paper-06",
+      "family": "ocean-paper",
+      "colors": [
+        "#3473A2",
+        "#CDDADC",
+        "#FBF8F0"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-06.png"
+    },
+    {
+      "id": "ocean-paper-07",
+      "family": "ocean-paper",
+      "colors": [
+        "#085689",
+        "#C8C3BC",
+        "#8D9DA1"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-07.png"
+    },
+    {
+      "id": "ocean-paper-08",
+      "family": "ocean-paper",
+      "colors": [
+        "#FBF8F0",
+        "#0A5589",
+        "#9F9A82"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-08.png"
+    },
+    {
+      "id": "ocean-paper-09",
+      "family": "ocean-paper",
+      "colors": [
+        "#CDDADC",
+        "#9F9A82",
+        "#3473A2"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/ocean-paper-09.png"
+    },
+    {
+      "id": "cream-sky-01",
+      "family": "cream-sky",
+      "colors": [
+        "#FFEC8E",
+        "#FCF5D2",
+        "#C0E3F5"
+      ],
+      "method": "printed_hex",
+      "image": "assets/palettes/cream-sky-01.png"
+    },
+    {
+      "id": "berry-cocoa-01",
+      "family": "berry-cocoa",
+      "colors": [
+        "#E74D66",
+        "#FAE7C3",
+        "#F1F7FC"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-01.png"
+    },
+    {
+      "id": "berry-cocoa-02",
+      "family": "berry-cocoa",
+      "colors": [
+        "#3E292E",
+        "#DBDFE2",
+        "#E74D66"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-02.png"
+    },
+    {
+      "id": "berry-cocoa-03",
+      "family": "berry-cocoa",
+      "colors": [
+        "#F1F7FC",
+        "#005E80",
+        "#4D3B0D"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-03.png"
+    },
+    {
+      "id": "berry-cocoa-04",
+      "family": "berry-cocoa",
+      "colors": [
+        "#775459",
+        "#DBDFE2",
+        "#FAE7C3"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-04.png"
+    },
+    {
+      "id": "berry-cocoa-05",
+      "family": "berry-cocoa",
+      "colors": [
+        "#E74D66",
+        "#775459",
+        "#F1F7FC"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-05.png"
+    },
+    {
+      "id": "berry-cocoa-06",
+      "family": "berry-cocoa",
+      "colors": [
+        "#F1F7FC",
+        "#005E80",
+        "#F4AF70"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-06.png"
+    },
+    {
+      "id": "berry-cocoa-07",
+      "family": "berry-cocoa",
+      "colors": [
+        "#3E292E",
+        "#F3AF72",
+        "#FAE7C3"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-07.png"
+    },
+    {
+      "id": "berry-cocoa-08",
+      "family": "berry-cocoa",
+      "colors": [
+        "#F1F7FC",
+        "#4D3B0D",
+        "#005E80"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-08.png"
+    },
+    {
+      "id": "berry-cocoa-09",
+      "family": "berry-cocoa",
+      "colors": [
+        "#DBDFE2",
+        "#E74D66",
+        "#775459"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/berry-cocoa-09.png"
+    },
+    {
+      "id": "wood-mist-01",
+      "family": "wood-mist",
+      "colors": [
+        "#E2C2A4",
+        "#E7F2E9",
+        "#FFFBF5"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-01.png"
+    },
+    {
+      "id": "wood-mist-02",
+      "family": "wood-mist",
+      "colors": [
+        "#FFFBF5",
+        "#DBCB93",
+        "#8A5B59"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-02.png"
+    },
+    {
+      "id": "wood-mist-03",
+      "family": "wood-mist",
+      "colors": [
+        "#FCFBFE",
+        "#DEAF6D",
+        "#CF7158"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-03.png"
+    },
+    {
+      "id": "wood-mist-04",
+      "family": "wood-mist",
+      "colors": [
+        "#E2C2A4",
+        "#FCFBFE",
+        "#CF7158"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-04.png"
+    },
+    {
+      "id": "wood-mist-05",
+      "family": "wood-mist",
+      "colors": [
+        "#F6E9C9",
+        "#DEAF6D",
+        "#FFFBF5"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-05.png"
+    },
+    {
+      "id": "wood-mist-06",
+      "family": "wood-mist",
+      "colors": [
+        "#FCFBFE",
+        "#F6E9C9",
+        "#E7F2E9"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-06.png"
+    },
+    {
+      "id": "wood-mist-07",
+      "family": "wood-mist",
+      "colors": [
+        "#F6E9C7",
+        "#FFFBF5",
+        "#E2C2A4"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-07.png"
+    },
+    {
+      "id": "wood-mist-08",
+      "family": "wood-mist",
+      "colors": [
+        "#FCFBFE",
+        "#DCB16B",
+        "#8A5B59"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-08.png"
+    },
+    {
+      "id": "wood-mist-09",
+      "family": "wood-mist",
+      "colors": [
+        "#FFFBF5",
+        "#DBCB93",
+        "#F6E9C9"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/wood-mist-09.png"
+    },
+    {
+      "id": "moss-tea-01",
+      "family": "moss-tea",
+      "colors": [
+        "#B6C172",
+        "#86A126",
+        "#E14744"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-01.png"
+    },
+    {
+      "id": "moss-tea-02",
+      "family": "moss-tea",
+      "colors": [
+        "#684936",
+        "#95A162",
+        "#B6C172"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-02.png"
+    },
+    {
+      "id": "moss-tea-03",
+      "family": "moss-tea",
+      "colors": [
+        "#86A126",
+        "#5C6D2E",
+        "#D6C78C"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-03.png"
+    },
+    {
+      "id": "moss-tea-04",
+      "family": "moss-tea",
+      "colors": [
+        "#95A162",
+        "#D6C78C",
+        "#DC5F6A"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-04.png"
+    },
+    {
+      "id": "moss-tea-05",
+      "family": "moss-tea",
+      "colors": [
+        "#86A126",
+        "#684936",
+        "#D6C78C"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-05.png"
+    },
+    {
+      "id": "moss-tea-06",
+      "family": "moss-tea",
+      "colors": [
+        "#5C6D2E",
+        "#DF4744",
+        "#CCD275"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-06.png"
+    },
+    {
+      "id": "moss-tea-07",
+      "family": "moss-tea",
+      "colors": [
+        "#B6C172",
+        "#86A126",
+        "#5C6D2E"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-07.png"
+    },
+    {
+      "id": "moss-tea-08",
+      "family": "moss-tea",
+      "colors": [
+        "#5C6D2E",
+        "#CCD275",
+        "#D6C78C"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-08.png"
+    },
+    {
+      "id": "moss-tea-09",
+      "family": "moss-tea",
+      "colors": [
+        "#B6C172",
+        "#DB606A",
+        "#684936"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/moss-tea-09.png"
+    },
+    {
+      "id": "sky-lilac-01",
+      "family": "sky-lilac",
+      "colors": [
+        "#A2C5E9",
+        "#9C8EC5",
+        "#4C74B1"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-01.png"
+    },
+    {
+      "id": "sky-lilac-02",
+      "family": "sky-lilac",
+      "colors": [
+        "#79A8DA",
+        "#FBE2C6",
+        "#F5F3FB"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-02.png"
+    },
+    {
+      "id": "sky-lilac-03",
+      "family": "sky-lilac",
+      "colors": [
+        "#4C74B1",
+        "#A2C5E9",
+        "#E3DBEE"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-03.png"
+    },
+    {
+      "id": "sky-lilac-04",
+      "family": "sky-lilac",
+      "colors": [
+        "#E3DBEE",
+        "#79A8DA",
+        "#9C8EC5"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-04.png"
+    },
+    {
+      "id": "sky-lilac-05",
+      "family": "sky-lilac",
+      "colors": [
+        "#D0D0D0",
+        "#4C74B1",
+        "#F5F3FB"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-05.png"
+    },
+    {
+      "id": "sky-lilac-06",
+      "family": "sky-lilac",
+      "colors": [
+        "#A2C5E9",
+        "#9C8EC5",
+        "#4C74B1"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-06.png"
+    },
+    {
+      "id": "sky-lilac-07",
+      "family": "sky-lilac",
+      "colors": [
+        "#4C74B1",
+        "#F5F3FB",
+        "#78A8DA"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-07.png"
+    },
+    {
+      "id": "sky-lilac-08",
+      "family": "sky-lilac",
+      "colors": [
+        "#79A8DA",
+        "#FBE2C6",
+        "#A1C6E9"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-08.png"
+    },
+    {
+      "id": "sky-lilac-09",
+      "family": "sky-lilac",
+      "colors": [
+        "#D0D0D0",
+        "#4C74AF",
+        "#FBE2C6"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/sky-lilac-09.png"
+    },
+    {
+      "id": "electric-pop-01",
+      "family": "electric-pop",
+      "colors": [
+        "#F59F3B",
+        "#4FC0D5",
+        "#534E89"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-01.png"
+    },
+    {
+      "id": "electric-pop-02",
+      "family": "electric-pop",
+      "colors": [
+        "#03142C",
+        "#F6EC45",
+        "#4FC0D5"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-02.png"
+    },
+    {
+      "id": "electric-pop-03",
+      "family": "electric-pop",
+      "colors": [
+        "#F9FAF5",
+        "#AE7FAF",
+        "#03142C"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-03.png"
+    },
+    {
+      "id": "electric-pop-04",
+      "family": "electric-pop",
+      "colors": [
+        "#4FC0D5",
+        "#F6EC45",
+        "#534E89"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-04.png"
+    },
+    {
+      "id": "electric-pop-05",
+      "family": "electric-pop",
+      "colors": [
+        "#E5457D",
+        "#51BFD5",
+        "#B6D358"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-05.png"
+    },
+    {
+      "id": "electric-pop-06",
+      "family": "electric-pop",
+      "colors": [
+        "#F6EC45",
+        "#03142C",
+        "#E5457D"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-06.png"
+    },
+    {
+      "id": "electric-pop-07",
+      "family": "electric-pop",
+      "colors": [
+        "#F59F3B",
+        "#E5457D",
+        "#F9FAF5"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-07.png"
+    },
+    {
+      "id": "electric-pop-08",
+      "family": "electric-pop",
+      "colors": [
+        "#AE7FAF",
+        "#534E89",
+        "#F6EC45"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-08.png"
+    },
+    {
+      "id": "electric-pop-09",
+      "family": "electric-pop",
+      "colors": [
+        "#E6457D",
+        "#F9FAF5",
+        "#B6D358"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/electric-pop-09.png"
+    },
+    {
+      "id": "crimson-gold-01",
+      "family": "crimson-gold",
+      "colors": [
+        "#D0B65B",
+        "#B51C2F",
+        "#4F4854"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-01.png"
+    },
+    {
+      "id": "crimson-gold-02",
+      "family": "crimson-gold",
+      "colors": [
+        "#CB474A",
+        "#DCD2AA",
+        "#690021"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-02.png"
+    },
+    {
+      "id": "crimson-gold-03",
+      "family": "crimson-gold",
+      "colors": [
+        "#D0B65B",
+        "#DCD2AA",
+        "#4F4854"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-03.png"
+    },
+    {
+      "id": "crimson-gold-04",
+      "family": "crimson-gold",
+      "colors": [
+        "#110509",
+        "#714F86",
+        "#B51C2F"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-04.png"
+    },
+    {
+      "id": "crimson-gold-05",
+      "family": "crimson-gold",
+      "colors": [
+        "#D8D2DD",
+        "#CB474A",
+        "#4F4854"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-05.png"
+    },
+    {
+      "id": "crimson-gold-06",
+      "family": "crimson-gold",
+      "colors": [
+        "#690021",
+        "#B51C2F",
+        "#D8D2DD"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-06.png"
+    },
+    {
+      "id": "crimson-gold-07",
+      "family": "crimson-gold",
+      "colors": [
+        "#4F4854",
+        "#CA4647",
+        "#110509"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-07.png"
+    },
+    {
+      "id": "crimson-gold-08",
+      "family": "crimson-gold",
+      "colors": [
+        "#D0B65B",
+        "#DCD2AA",
+        "#B51C2F"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-08.png"
+    },
+    {
+      "id": "crimson-gold-09",
+      "family": "crimson-gold",
+      "colors": [
+        "#110509",
+        "#690023",
+        "#714F86"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/crimson-gold-09.png"
+    },
+    {
+      "id": "vermilion-ink-01",
+      "family": "vermilion-ink",
+      "colors": [
+        "#CA3F23",
+        "#4B5CA8",
+        "#F8F8F8"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-01.png"
+    },
+    {
+      "id": "vermilion-ink-02",
+      "family": "vermilion-ink",
+      "colors": [
+        "#019963",
+        "#676465",
+        "#2A2F2F"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-02.png"
+    },
+    {
+      "id": "vermilion-ink-03",
+      "family": "vermilion-ink",
+      "colors": [
+        "#676465",
+        "#C4C4C4",
+        "#CA3F23"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-03.png"
+    },
+    {
+      "id": "vermilion-ink-04",
+      "family": "vermilion-ink",
+      "colors": [
+        "#2A2F2F",
+        "#BD6755",
+        "#CA3F23"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-04.png"
+    },
+    {
+      "id": "vermilion-ink-05",
+      "family": "vermilion-ink",
+      "colors": [
+        "#F8F8F8",
+        "#CA3F23",
+        "#05204C"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-05.png"
+    },
+    {
+      "id": "vermilion-ink-06",
+      "family": "vermilion-ink",
+      "colors": [
+        "#2A2F2F",
+        "#019963",
+        "#4B5CA8"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-06.png"
+    },
+    {
+      "id": "vermilion-ink-07",
+      "family": "vermilion-ink",
+      "colors": [
+        "#019963",
+        "#C4C4C4",
+        "#05204C"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-07.png"
+    },
+    {
+      "id": "vermilion-ink-08",
+      "family": "vermilion-ink",
+      "colors": [
+        "#2A2F2F",
+        "#4B5CAA",
+        "#BD6755"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-08.png"
+    },
+    {
+      "id": "vermilion-ink-09",
+      "family": "vermilion-ink",
+      "colors": [
+        "#CA3F23",
+        "#05204C",
+        "#019963"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/vermilion-ink-09.png"
+    },
+    {
+      "id": "rain-slate-01",
+      "family": "rain-slate",
+      "colors": [
+        "#5D91CB",
+        "#E3EEF3",
+        "#3B4349"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-01.png"
+    },
+    {
+      "id": "rain-slate-02",
+      "family": "rain-slate",
+      "colors": [
+        "#5AACB9",
+        "#516880",
+        "#367078"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-02.png"
+    },
+    {
+      "id": "rain-slate-03",
+      "family": "rain-slate",
+      "colors": [
+        "#E3EEF3",
+        "#516880",
+        "#5F90CB"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-03.png"
+    },
+    {
+      "id": "rain-slate-04",
+      "family": "rain-slate",
+      "colors": [
+        "#007EA1",
+        "#B2D2EE",
+        "#5CABB9"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-04.png"
+    },
+    {
+      "id": "rain-slate-05",
+      "family": "rain-slate",
+      "colors": [
+        "#B2D2EE",
+        "#73B1BC",
+        "#5F90CB"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-05.png"
+    },
+    {
+      "id": "rain-slate-06",
+      "family": "rain-slate",
+      "colors": [
+        "#367078",
+        "#3B4349",
+        "#73B1BC"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-06.png"
+    },
+    {
+      "id": "rain-slate-07",
+      "family": "rain-slate",
+      "colors": [
+        "#007E9F",
+        "#3B4349",
+        "#B2D2EE"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-07.png"
+    },
+    {
+      "id": "rain-slate-08",
+      "family": "rain-slate",
+      "colors": [
+        "#5F90CB",
+        "#E3EEF3",
+        "#367078"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-08.png"
+    },
+    {
+      "id": "rain-slate-09",
+      "family": "rain-slate",
+      "colors": [
+        "#B2D2EE",
+        "#367078",
+        "#007EA1"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/rain-slate-09.png"
+    },
+    {
+      "id": "citrus-sun-01",
+      "family": "citrus-sun",
+      "colors": [
+        "#E94E15",
+        "#F08E1D",
+        "#FFD46E"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-01.png"
+    },
+    {
+      "id": "citrus-sun-02",
+      "family": "citrus-sun",
+      "colors": [
+        "#F08E1D",
+        "#F7B736",
+        "#AA4537"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-02.png"
+    },
+    {
+      "id": "citrus-sun-03",
+      "family": "citrus-sun",
+      "colors": [
+        "#E94E15",
+        "#AA4537",
+        "#FEFBD6"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-03.png"
+    },
+    {
+      "id": "citrus-sun-04",
+      "family": "citrus-sun",
+      "colors": [
+        "#F7B736",
+        "#D59B3F",
+        "#E74F15"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-04.png"
+    },
+    {
+      "id": "citrus-sun-05",
+      "family": "citrus-sun",
+      "colors": [
+        "#E94E15",
+        "#F08E1D",
+        "#FFD46E"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-05.png"
+    },
+    {
+      "id": "citrus-sun-06",
+      "family": "citrus-sun",
+      "colors": [
+        "#D59B41",
+        "#FEFEF1",
+        "#DB542D"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-06.png"
+    },
+    {
+      "id": "citrus-sun-07",
+      "family": "citrus-sun",
+      "colors": [
+        "#D9552D",
+        "#AA4537",
+        "#FFD46C"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-07.png"
+    },
+    {
+      "id": "citrus-sun-08",
+      "family": "citrus-sun",
+      "colors": [
+        "#F8B636",
+        "#FEFBD6",
+        "#E94E15"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-08.png"
+    },
+    {
+      "id": "citrus-sun-09",
+      "family": "citrus-sun",
+      "colors": [
+        "#F08E1D",
+        "#DB542F",
+        "#AA4537"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/citrus-sun-09.png"
+    },
+    {
+      "id": "mint-candy-01",
+      "family": "mint-candy",
+      "colors": [
+        "#FCF7DF",
+        "#FDDFC5",
+        "#A6D4A7"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-01.png"
+    },
+    {
+      "id": "mint-candy-02",
+      "family": "mint-candy",
+      "colors": [
+        "#EDEF9F",
+        "#CDE2A9",
+        "#87CDCC"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-02.png"
+    },
+    {
+      "id": "mint-candy-03",
+      "family": "mint-candy",
+      "colors": [
+        "#F5D9DE",
+        "#E9B4C4",
+        "#A6D4A7"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-03.png"
+    },
+    {
+      "id": "mint-candy-04",
+      "family": "mint-candy",
+      "colors": [
+        "#FCF7DF",
+        "#EDEF9F",
+        "#87CDCC"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-04.png"
+    },
+    {
+      "id": "mint-candy-05",
+      "family": "mint-candy",
+      "colors": [
+        "#ECF6E5",
+        "#E9B4C4",
+        "#F5D9DE"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-05.png"
+    },
+    {
+      "id": "mint-candy-06",
+      "family": "mint-candy",
+      "colors": [
+        "#87CDCC",
+        "#CDE2A9",
+        "#FDDFC5"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-06.png"
+    },
+    {
+      "id": "mint-candy-07",
+      "family": "mint-candy",
+      "colors": [
+        "#E9B4C4",
+        "#ECF6E5",
+        "#FCF7DF"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-07.png"
+    },
+    {
+      "id": "mint-candy-08",
+      "family": "mint-candy",
+      "colors": [
+        "#CDE2A9",
+        "#ECF6E5",
+        "#87CDCC"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-08.png"
+    },
+    {
+      "id": "mint-candy-09",
+      "family": "mint-candy",
+      "colors": [
+        "#EDEF9F",
+        "#85CECA",
+        "#E9B4C4"
+      ],
+      "method": "image_sample",
+      "image": "assets/palettes/mint-candy-09.png"
+    }
+  ]
+}
